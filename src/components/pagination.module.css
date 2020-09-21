@@ -1,0 +1,19 @@
+.pagination {
+  margin-top: 20px;
+}
+.activePageNum {
+  text-decoration: underline;
+  font-weight: 900;
+}
+.pagination span {
+  margin: 0 6px;
+  cursor: pointer;
+}
+.pagination button {
+  border: none;
+  background: #2d3436;
+  color: #fff;
+  font-style: italic;
+  cursor: pointer;
+  border-radius: 2px;
+}
